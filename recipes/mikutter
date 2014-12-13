@@ -1,0 +1,6 @@
+(mikutter
+ :repo "toshia/mikutter-mode"
+ :fetcher github
+ :files ("*.el"
+         "README.org"
+         "snippets"))
